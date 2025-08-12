@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>Professional Developer — Websites, Minecraft servers & plugins, Telegram/Discord bots, automation.</em>
+  <em>Hard Developer — Websites, Minecraft servers & plugins, Telegram/Discord bots, automation.</em>
 </p>
 
 ---
