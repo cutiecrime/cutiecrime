@@ -1,6 +1,6 @@
 <!-- CENTERED ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF9F&center=true&vCenter=true&width=980&lines=Hey!+I'm+CutieCrime;Professional+Developer+%7C+Minecraft+Server+%26+Plugin+Creator;Web+%7C+Bots+%7C+Tools+%7C+Always+Learning" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF9F&center=true&vCenter=true&width=980&lines=Hey!+I'm+CutieCrime;Hard+Developer+%7C+Minecraft+Server+%26+Plugin+Creator;Web+%7C+Bots+%7C+Tools+%7C+Always+Learning" alt="typing"/>
 </p>
 
 <p align="center">
